@@ -61,7 +61,6 @@ To detect human faces continuously from a live webcam video stream.
 
 The system detects human faces from the live webcam stream and displays rectangular bounding boxes around detected faces.
 
-**Note:** Google Colab requires browser-based webcam access. For direct OpenCV webcam access using `VideoCapture(0)`, a local Python environment such as Jupyter Notebook or VS Code is recommended.
 
 ## 6. Key Concepts Learned
 
